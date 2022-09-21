@@ -7,4 +7,13 @@
     width: 200px;
     height: 200px;
     background-color:green;
+    position: relative;
+    left: 200px;
+}
+.blue{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    left: 400px;
 }
